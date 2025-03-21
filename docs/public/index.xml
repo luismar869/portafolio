@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Feb 2025 08:43:55 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practica0</title>
+      <link>http://localhost:1313/posts/practica0/</link>
+      <pubDate>Fri, 21 Feb 2025 08:43:55 -0800</pubDate>
+      <guid>http://localhost:1313/posts/practica0/</guid>
+      <description>&lt;h1 id=&#34;encabezado-1&#34;&gt;Encabezado 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;encabezado-2&#34;&gt;Encabezado 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;encabezado-3&#34;&gt;Encabezado 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;encabezado-4&#34;&gt;Encabezado 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;encabezado-5&#34;&gt;Encabezado 5&lt;/h5&gt;&#xA;&lt;p&gt;Este es un texto en &lt;em&gt;italicas&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Este es un texto en &lt;em&gt;italicas&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Este es un texto en &lt;strong&gt;negritas&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Este es un texto en &lt;strong&gt;negritas&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Este es un texto &lt;del&gt;rayado&lt;/del&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Elemento 1&lt;/li&gt;&#xA;&lt;li&gt;Elemento2&lt;/li&gt;&#xA;&lt;li&gt;Elemento 3&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Elemento 3.1&lt;/li&gt;&#xA;&lt;li&gt;Elemento 3.2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Elemento 4&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Elemento 1&lt;/li&gt;&#xA;&lt;li&gt;Elemento 2&lt;/li&gt;&#xA;&lt;li&gt;Elemento 3&lt;/li&gt;&#xA;&lt;li&gt;Elemento 3.1&lt;/li&gt;&#xA;&lt;li&gt;Elemento 3.2&lt;/li&gt;&#xA;&lt;li&gt;Elemento 4&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a href=&#34;www.uabc.mx&#34;&gt;UABC&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;www.uabc.mx&#34; title=&#34;Titulo Personalizado&#34;&gt;UABC&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png&#34; alt=&#34;Bandera&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./bandera.png&#34; alt=&#34;Bandera&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;www.uabc.mx&#34;&gt;&lt;img src=&#34;./uabc.png&#34; alt=&#34;UABC&#34; title=&#34;Pagina de UABC&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
