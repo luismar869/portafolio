@@ -14,10 +14,7 @@ title = 'Practica0'
 ###### Encabezado 6
 ###### Encabezado 7
 
-nnkndnkvnkdn
-ffefeffef
-rofhejrjrbfrefbjekfb
-krenkfkefef
+HOLA
 
 <!-- Italicas -->
 Este es un texto en *italicas*
