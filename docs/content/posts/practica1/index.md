@@ -138,5 +138,3 @@ datos propios por medio de “typedef” el cual crea un tipo de dato en base a 
 conjunto de datos. Como es el caso de “book_t”, “member_t” y “genre_t”.
 
 ![Foto 13](/images/p1_png13.png)
-
-
