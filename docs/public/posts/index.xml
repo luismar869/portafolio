@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/posts/practica1/</guid>
       <description>&lt;p&gt;Los elementos básicos de un programa sin importar el lenguaje de programación&#xA;son importantes para así comprender su estructura y aún más vital el&#xA;funcionamiento y razonamiento lógico que se lleva a cabo en dicho código. Algunos&#xA;elementos básicos pueden ser (nombres, objetos, entornos, bloques, alcance,&#xA;administración de memoria, expresiones, comandos, secuencia, selección, iteración,&#xA;recursión, subprogramas, y tipos de datos).&lt;/p&gt;&#xA;&lt;p&gt;A continuación se va hacer un análisis acerca de estos elementos en un código de&#xA;ejemplo proporcionado por el maestro en el cual se mencionan y ejemplifican el uso&#xA;de cada uno:&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Practica2: POO en Python</title>
+      <link>http://localhost:1313/posts/practica2/</link>
+      <pubDate>Fri, 21 Feb 2025 08:43:55 -0800</pubDate>
+      <guid>http://localhost:1313/posts/practica2/</guid>
+      <description>&lt;h2 id=&#34;introduccion&#34;&gt;Introduccion&lt;/h2&gt;&#xA;&lt;p&gt;La práctica realizada en el lenguaje de python consta del uso de bibliotecas propias y su implementación para definir clases y sus operaciones al igual que su aplicación web. Esto se lleva a cabo en 3 archivos .py los cuales se analizaran para así desglosar sus funciones y funcionamiento.&lt;/p&gt;&#xA;&lt;h2 id=&#34;desarrollo&#34;&gt;Desarrollo&lt;/h2&gt;&#xA;&lt;h3 id=&#34;bibliotecapy&#34;&gt;biblioteca.py&lt;/h3&gt;&#xA;&lt;p&gt;En el siguiente bloque de código se importa el módulo nombrado “&lt;em&gt;json&lt;/em&gt;” el cual se utilizara para dar formato &lt;em&gt;JSON&lt;/em&gt; a objetos creados. Además en la línea 4 del documento memory_management.py se importa su clase definida la cual tiene el mismo nombre.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
