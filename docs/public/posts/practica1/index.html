@@ -128,7 +128,7 @@ de cada uno:</p>
 <p>Para la cuestión de nombres, esto es simplemente la forma de identificar ya sea a
 una variable, constante, función etc. En el caso del código proporcionado se pueden
 identificar los siguientes nombres:</p>
-<p><img src="/p1_png1.png" alt="Foto 1"></p>
+<p><img src="./p1_png1.png" alt="Foto 1"></p>
 <p>Estos son nombres de funciones como “freeLibrary” y “freeMembers” pero además
 en los diferentes bloques del código se crean múltiples variables con diferentes
 nombres cada una.</p>
@@ -138,46 +138,46 @@ y no puede llegar a ser un objeto físico, por lo que en este caso se refiere a 
 “referencia a su uso”. Por ejemplo la estructura “book_t” hace referencia a un libro
 real el cual contiene un id, titulo, autor, año de publicación, género y cantidad de
 páginas.</p>
-<p><img src="/p1_png2.png" alt="Foto 2"></p>
+<p><img src="./p1_png2.png" alt="Foto 2"></p>
 <h2 id="entornos">Entornos</h2>
 <p>A entornos nos podemos referir a bloques de código y como todos sus elementos se
 desarrollan en el entorno ya sea local o global. Por ejemplo, la variable “new_book”
 declarada en la función “addBook” tiene un alcance local dentro de la función, a
 diferencia de la variable “static_var” la cual es declarada al inicio del programa, esta
 tiene alcance a todo el programa, ya sea en funciones o en el main.</p>
-<p><img src="/p1_png3.png" alt="Foto 3"></p>
+<p><img src="./p1_png3.png" alt="Foto 3"></p>
 <h2 id="bloques">Bloques</h2>
 <p>Se puede decir que un bloque de código es aquel que está delimitado por llaves “{}”,
 en el caso del código ejemplo se puede observar que cada función es un bloque al
 igual que el main.</p>
-<p><img src="/p1_png4.png" alt="Foto 4"></p>
+<p><img src="./p1_png4.png" alt="Foto 4"></p>
 <h2 id="alcance">Alcance</h2>
 <p>Alcance se refiere al alcance de las variables, lo que previamente se mencionó en
 Entornos, donde “static_var” y armas “bss_var” son variables con alcance a todo el
 código, a las cuales nos podemos referir que tienen alcance global. Mientras las
 variables declaradas únicamente dentro de las funciones las podemos describir
 como variables locales.</p>
-<p><img src="/p1_png5.png" alt="Foto 5"></p>
+<p><img src="./p1_png5.png" alt="Foto 5"></p>
 <h2 id="administracion-de-memoria">Administracion de Memoria</h2>
 <p>Para asignar un espacio de memoria en C se utiliza el comando “malloc” el cual
 asigna un espacio de memoria en el heap a la variable, estructura, arreglo, etc, que
 desees almacenar. Esto sirve para poder almacenar datos al momento de ejecución
 sin saber su tamaño, por lo que también se le conoce como memoria dinámica.</p>
-<p><img src="/p1_png6.png" alt="Foto 6"></p>
+<p><img src="./p1_png6.png" alt="Foto 6"></p>
 <p>Ya que se haya dejado de utilizar ese espacio de memoria se debe liberar utilizando
 el comando “free”. Esto para no ir llenando la memoria de datos innecesarios que a
 a la larga va reduciendo la velocidad y capacidad del sistema.</p>
-<p><img src="/p1_png7.png" alt="Foto 7"></p>
+<p><img src="./p1_png7.png" alt="Foto 7"></p>
 <h2 id="expresiones">Expresiones</h2>
 <p>En el caso de expresiones podemos decir que son instrucciones las cuales indican
 una acción dentro del código utilizando comandos o operadores. A continuación se
 muestran diferentes ejemplos:</p>
-<p><img src="/p1_png8.png" alt="Foto 8"></p>
+<p><img src="./p1_png8.png" alt="Foto 8"></p>
 <h2 id="comandos">Comandos</h2>
 <p>Los comandos son instrucciones las cuales indican una accion a realizar, estos en la
 mayoría de los casos son utilizados en conjunto con variables, funciones,
 estructuras, arreglos, etc.</p>
-<p><img src="/p1_png9.png" alt="Foto 9"></p>
+<p><img src="./p1_png9.png" alt="Foto 9"></p>
 <p>En el ejemplo anterior los comandos son aquellos de color amarillo siendo <strong>printf,
 getchar, fgets, strcspn</strong>. Cada uno realiza una acción diferente:</p>
 <ul>
@@ -189,24 +189,24 @@ getchar, fgets, strcspn</strong>. Cada uno realiza una acción diferente:</p>
 <h2 id="seleccion">Seleccion</h2>
 <p>Son estructuras de selección como “if” o “switch” en las cuales se toman decisiones
 a partir de ciertas condiciones.</p>
-<p><img src="/images/p1_png10.png" alt="Foto 10"></p>
+<p><img src="./images/p1_png10.png" alt="Foto 10"></p>
 <h2 id="iteracion">Iteracion</h2>
 <p>Son estructuras de iteración en la cual se utilizan bucles como “while” y “for” para
 repetir ciertas instrucciones a partir de ciertas condiciones.</p>
-<p><img src="/images/p1_png11.png" alt="Foto 11"></p>
+<p><img src="./images/p1_png11.png" alt="Foto 11"></p>
 <h2 id="recursion">Recursion</h2>
 <p>Un ejemplo de recursividad es en la función “displayBooksRecursive” donde se la
 función a si misma para mostrar los libros de manera recursiva. Aunque para que
 esta no se repita de manera infinita siempre debe existir una condición que en este
 caso es con el comando “if”.</p>
-<p><img src="/images/p1_png12.png" alt="Foto 12"></p>
+<p><img src="./images/p1_png12.png" alt="Foto 12"></p>
 <h2 id="tipos-de-datos">Tipos de Datos</h2>
 <p>Existen múltiples tipos de datos, cada uno con características diferentes a las cuales
 se le pueden realizar diferentes funciones, operaciones, instrucciones, etc. Los más
 comunes suelen ser int, char, float, double, pero también se pueden realizar tipos de
 datos propios por medio de “typedef” el cual crea un tipo de dato en base a un
 conjunto de datos. Como es el caso de “book_t”, “member_t” y “genre_t”.</p>
-<p><img src="/images/p1_png13.png" alt="Foto 13"></p>
+<p><img src="./images/p1_png13.png" alt="Foto 13"></p>
 <ul class="pa0">
   
 </ul>
