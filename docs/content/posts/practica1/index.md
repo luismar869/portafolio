@@ -23,7 +23,7 @@ Para la cuestión de nombres, esto es simplemente la forma de identificar ya sea
 una variable, constante, función etc. En el caso del código proporcionado se pueden
 identificar los siguientes nombres:
 
-![Foto 1](./p1_png1.png)
+![Foto 1](./images/p1_png1.png)
 
 Estos son nombres de funciones como “freeLibrary” y “freeMembers” pero además
 en los diferentes bloques del código se crean múltiples variables con diferentes
@@ -37,7 +37,7 @@ y no puede llegar a ser un objeto físico, por lo que en este caso se refiere a 
 real el cual contiene un id, titulo, autor, año de publicación, género y cantidad de
 páginas.
 
-![Foto 2](./p1_png2.png)
+![Foto 2](./images/p1_png2.png)
 
 ## Entornos
 
@@ -47,7 +47,7 @@ declarada en la función “addBook” tiene un alcance local dentro de la funci
 diferencia de la variable “static_var” la cual es declarada al inicio del programa, esta
 tiene alcance a todo el programa, ya sea en funciones o en el main.
 
-![Foto 3](./p1_png3.png)
+![Foto 3](./images/p1_png3.png)
 
 ## Bloques
 
@@ -55,7 +55,7 @@ Se puede decir que un bloque de código es aquel que está delimitado por llaves
 en el caso del código ejemplo se puede observar que cada función es un bloque al
 igual que el main. 
 
-![Foto 4](./p1_png4.png)
+![Foto 4](./images/p1_png4.png)
 
 ## Alcance
 
@@ -65,7 +65,7 @@ código, a las cuales nos podemos referir que tienen alcance global. Mientras la
 variables declaradas únicamente dentro de las funciones las podemos describir
 como variables locales.
 
-![Foto 5](./p1_png5.png)
+![Foto 5](./images/p1_png5.png)
 
 ## Administracion de Memoria
 
@@ -74,13 +74,13 @@ asigna un espacio de memoria en el heap a la variable, estructura, arreglo, etc,
 desees almacenar. Esto sirve para poder almacenar datos al momento de ejecución
 sin saber su tamaño, por lo que también se le conoce como memoria dinámica.
 
-![Foto 6](./p1_png6.png)
+![Foto 6](./images/p1_png6.png)
 
 Ya que se haya dejado de utilizar ese espacio de memoria se debe liberar utilizando
 el comando “free”. Esto para no ir llenando la memoria de datos innecesarios que a
 a la larga va reduciendo la velocidad y capacidad del sistema.
 
-![Foto 7](./p1_png7.png)
+![Foto 7](./images/p1_png7.png)
 
 ## Expresiones
 
@@ -88,7 +88,7 @@ En el caso de expresiones podemos decir que son instrucciones las cuales indican
 una acción dentro del código utilizando comandos o operadores. A continuación se
 muestran diferentes ejemplos:
 
-![Foto 8](./p1_png8.png)
+![Foto 8](./images/p1_png8.png)
 
 ## Comandos
 
@@ -96,7 +96,7 @@ Los comandos son instrucciones las cuales indican una accion a realizar, estos e
 mayoría de los casos son utilizados en conjunto con variables, funciones,
 estructuras, arreglos, etc.
 
-![Foto 9](./p1_png9.png)
+![Foto 9](./images/p1_png9.png)
 
 En el ejemplo anterior los comandos son aquellos de color amarillo siendo **printf,
 getchar, fgets, strcspn**. Cada uno realiza una acción diferente:
